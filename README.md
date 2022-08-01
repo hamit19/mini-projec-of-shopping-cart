@@ -1,4 +1,4 @@
-# mini-projec-of-shopping-cart
+# mini-project-of-shopping-cart
 
 <h2> Checkout online the template: <a href="https://shopping-cart-hamid-hassani.netlify.app/" target="_blank" > Click here to redirect! </a>  </h2>
 
